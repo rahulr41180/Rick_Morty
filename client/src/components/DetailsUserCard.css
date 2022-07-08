@@ -1,0 +1,44 @@
+
+.avatar__box {
+
+    width: 30vw;
+    display: flex;
+    gap: 1vw;
+}
+.avatar__details {
+    width: 51%;
+    padding : 1vw;
+    margin : 0 0 0 1vw;
+    display: flex;
+    flex-direction: column;
+    gap: .1vw;
+}
+.avatar__status {
+    padding : .2vw;
+    display: flex;
+    align-items: center;
+}
+.avatar__content {
+    margin : auto auto auto .1vw;
+}
+.avatar__body {
+    margin: .5vw auto auto auto;
+    width: 96.2%;
+    padding : 1vw .5vw;
+    display: flex;
+    gap: .5vw;
+}
+.body__left {
+    width: 48%;
+    padding: .5vw;
+    display: flex;
+    flex-direction: column;
+    gap: 1vw;
+}
+.body__right {
+    width : 48%;
+    padding: .5vw;
+    display: flex;
+    flex-direction: column;
+    gap: 1vw;
+}

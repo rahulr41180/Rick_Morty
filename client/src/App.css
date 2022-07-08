@@ -1,0 +1,18 @@
+
+.App {
+
+  width: 97.88vw;
+  height : 95vh;
+  padding : 1vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1vw;
+
+}
+
+.title {
+  margin: auto auto 2vw auto;
+  font-size: 3vw;
+}
